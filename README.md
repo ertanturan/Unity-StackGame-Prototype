@@ -1,6 +1,6 @@
 # Unity-StackGame-Prototype
 
-This project is a basic game prototype designed to demonstrate `https://play.google.com/store/apps/details?id=com.ketchapp.stack&hl=en&gl=US` Stack game's base mechanic primitively. 
+This project is a basic game prototype designed to demonstrate the popular game called [Stack](https://play.google.com/store/apps/details?id=com.ketchapp.stack&hl=en&gl=US "Stack Game on Play store") 's base mechanic primitively. 
 
 ## Currently Ongoing Developments
 - No further development is planned..
